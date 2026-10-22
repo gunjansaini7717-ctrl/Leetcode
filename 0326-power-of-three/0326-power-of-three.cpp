@@ -4,10 +4,7 @@ public:
         if(n == 1){
             return true;
         }
-        if(n % 2 == 0){
-            return false;
-        }
-        if(n % 3 != 0){
+        if(n % 2 == 0 || n%3 != 0){
             return false;
         }
         return isPowerOfThree(n/3);
