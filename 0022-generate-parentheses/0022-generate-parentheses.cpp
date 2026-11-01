@@ -2,7 +2,8 @@ class Solution {
 public:
     vector<string> generateParenthesis(int n) {
         vector<string> result;
-        backtrack(result, "", 0, 0, n);
+        string current = "";
+        backtrack(result, current, 0, 0, n);
         return result;
     }
 private:
@@ -12,10 +13,14 @@ private:
             return;
         }
         if(open < n){
-            backtrack(result, current+"(", open+1, close, n);
+            current.push_back('(');
+            backtrack(result, current, open+1, close, n);
+            current.pop_back();
         }
         if(close < open){
-            backtrack(result, current+")", open, close+1, n);
+            current.push_back(')');
+            backtrack(result, current, open, close+1, n);
+            current.pop_back();
         }
     }
 };
