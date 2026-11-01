@@ -7,7 +7,7 @@ public:
         return result;
     }
 private:
-    void backtrack(vector<string>& result, string current, int open, int close, int n) {
+    void backtrack(vector<string>& result, string& current, int open, int close, int n) {
         if(current.length() == 2*n){
             result.push_back(current);
             return;
