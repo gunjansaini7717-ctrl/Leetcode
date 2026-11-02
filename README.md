@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/gunjansaini7717-ctrl/Leetcode/tree/master/0231-power-of-two) |
+| [1922-count-good-numbers](https://github.com/gunjansaini7717-ctrl/Leetcode/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/gunjansaini7717-ctrl/Leetcode/tree/master/0231-power-of-two) |
+| [1922-count-good-numbers](https://github.com/gunjansaini7717-ctrl/Leetcode/tree/master/1922-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |
