@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/gunjansaini7717-ctrl/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/gunjansaini7717-ctrl/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/gunjansaini7717-ctrl/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/gunjansaini7717-ctrl/Leetcode/tree/master/0137-single-number-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gunjansaini7717-ctrl/Leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/gunjansaini7717-ctrl/Leetcode/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/gunjansaini7717-ctrl/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/gunjansaini7717-ctrl/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/gunjansaini7717-ctrl/Leetcode/tree/master/0860-lemonade-change) |
 ## Quicksort
